@@ -1,7 +1,6 @@
 <html>
 <head>
 <style>
-a{width:300px;height:250px;}
 html{text-align:center;}
 p{float-right;font-size:30px;text-align:justify;}
 </style> </head>
