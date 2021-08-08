@@ -61,4 +61,4 @@ In the eastern parts, red fir, black juniper, birch, and larch are the common tr
       <li>Forests help in maintaining the temperature and oxygen level of the atmosphere. Plants release oxygen during photosynthesis and consume carbon dioxide. Forests being a huge reserve of plants and trees, they play a significant role in balancing oxygen level in the atmosphere.</li><br>
       <li>Forests help in preventing global warming. The increased amount of carbon dioxide (greenhouse gas) in the atmosphere results in the greenhouse effect and thus causes global warming.</li>
       <li>Forests prevent soil erosion. Trees present in the forests hold the soil particles strongly with the roots and prevent them from erosion.</li></ol><hr><br>
-    <video src="https://www.youtube.com/watch?v=_dWJVHIE9S8 autoplay">Importance of forest </video>
+    <video src="https://www.youtube.com/watch?v=_dWJVHIE9S8" controls>Importance of forest </video>
