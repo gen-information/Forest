@@ -12,9 +12,6 @@ p{float-right;font-size:30px;text-align:justify;}
 <body>
   <br><br>
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwp60fVYOoCCS_RvIQyf5GFZ2Sb5uHbc3Svw&usqp=CAU"> <br><br>
-  <iframe width="420" height="345" src="https://www.youtube.com/watch?v=22ADWbltHL0">
-</iframe>
-
 <p float-right>The word forest</p> <p>is derived from a Latin word“ Foris” means Outside. Forests are one of the most important natural resources of the
 earth. Approximately 1/3rd of the earth’s total area is covered by forests. Forests vary a great deal in composition and density and are distinct from meadows and pastures.
 Forests are important to humans and the biodiversity. For humans, they have many aesthetics, recreational, economic, historical, cultural and religious values. Forests provide 
@@ -69,5 +66,4 @@ In the eastern parts, red fir, black juniper, birch, and larch are the common tr
       <dl>Disruption of the Water Cycle and River Ecosystems : </dl> <dd> Evapotranspiration refers to the water that evaporates from the forest back to the atmosphere, increasing rainfall across nearby ecosystems. Loss of forest disrupts this cycle, resulting in less rainfall and causing drier conditions over broad surrounding areas, sometimes leading to drought. Forests also retain moisture from rainfall, allowing it to recharge water tables and regulating the flow of water into rivers and other waterways. Loss of forests often results in increased flooding and erosion of sediment into rivers, disrupting river ecosystems.</dd>
       <dl> Soil Erosion : </dl> <dd> Forests contain particularly rich soil that has received organic material over extended periods of time. When forest is destroyed, the soil is exposed to the sun, which causes it to lose nutrients. During heavy rains, the dry soil is washed away due to lack of root structures in the ground. Once topsoil is lost in an area, it can be very difficult to re-establish forest or use the land for other productive purposes.</dd>
       <dl> Global Warming : </dl> <dd> Deforestation is a primary cause of human-caused carbon dioxide emissions leading to global warming. All forests contain large amounts of carbon. When they are destroyed, the burning or decomposition of forest matter releases this carbon into the atmosphere in the form of carbon dioxide. Carbon dioxide is a greenhouse gas, absorbing solar heat within the atmosphere. Therefore, higher concentrations of atmospheric carbon dioxide lead to a warmer climate. Global warming threatens ecosystems and biodiversity globally.</dd></ol>
-    <iframe width="420" height="345" src="https://www.youtube.com/watch?v=_dWJVHIE9S8">
-</iframe>
+    
