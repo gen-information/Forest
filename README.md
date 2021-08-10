@@ -3,9 +3,8 @@
 <style>
 html{text-align:center;}
 p{float-right;font-size:30px;text-align:justify;}
-  .abc{text-align:left;font-size:30px;}
+  .abc{text-align:justify;font-size:30px;}
   .def{text-align:justfy;font-size:30px;}
-  a{text-align:center;font-size:30px;play:automatic;}
   #abc{text-align:left;font-size:30px;}
   img{border:solid;height:250px;width:300px;}
 </style> </head>
