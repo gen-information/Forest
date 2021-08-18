@@ -2,6 +2,7 @@
 <head>
 <style>
 html{text-align:center;background-image:C:\Users\prith\Desktop;}
+body{background-image:url("C:\Users\prith\Desktop;");}
 p{float-right;font-size:30px;text-align:justify;}
   .abc{text-align:justify;font-size:30px;}
   .def{text-align:justfy;font-size:30px;}
